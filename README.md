@@ -1,2 +1,16 @@
 
 ![dice](https://github.com/Ginu5952/DieceGame/assets/153096246/4fd5ba95-286a-478b-8496-5752ff1164de)
+![Screenshot from 2024-04-22 18-49-46](https://github.com/Ginu5952/DieceGame/assets/153096246/6eb3ef5a-d585-490c-b61f-144d6b9e8a6a)
+![Screenshot from 2024-04-22 18-49-59](https://github.com/Ginu5952/DieceGame/assets/153096246/9b97c7e7-4676-4a07-8f45-4f9f5891c9de)
+![Screenshot from 2024-04-22 18-50-08](https://github.com/Ginu5952/DieceGame/assets/153096246/849d1983-9118-4c4c-bfd0-fdcea94bd942)
+
+![Screenshot from 2024-04-22 18-50-25](https://github.com/Ginu5952/DieceGame/assets/153096246/4c1b2a8b-6828-451c-bdc7-79937a39b557)
+![Screenshot from 2024-04-22 18-50-39](https://github.com/Ginu5952/DieceGame/assets/153096246/97c609b8-ac66-4334-b3f2-847dfa232b89)
+![Screenshot from 2024-04-22 18-50-51](https://github.com/Ginu5952/DieceGame/assets/153096246/42e75dd1-913b-4405-bea6-87954bcbff68)
+![Screenshot from 2024-04-22 18-51-36](https://github.com/Ginu5952/DieceGame/assets/153096246/42b375ca-a071-4a70-85eb-30ff5315bd9f)
+![Screenshot from 2024-04-22 18-51-53](https://github.com/Ginu5952/DieceGame/assets/153096246/5670fe6d-5faf-490e-98a2-06749ac66be2)
+![Screenshot from 2024-04-22 18-52-08](https://github.com/Ginu5952/DieceGame/assets/153096246/d7445b0b-1d66-4551-8ae6-2b8e8d7e2e76)
+![Screenshot from 2024-04-22 18-53-12](https://github.com/Ginu5952/DieceGame/assets/153096246/8dcd30f8-cb75-456b-bf59-0b5876e97d47)
+![Screenshot from 2024-04-22 18-53-48](https://github.com/Ginu5952/DieceGame/assets/153096246/bf891807-914d-4204-98b0-c2c84ba12dba)
+![Screenshot from 2024-04-22 18-54-01](https://github.com/Ginu5952/DieceGame/assets/153096246/57da1abf-eaca-45de-9ef6-54c7ecc08b01)
+![Screenshot from 2024-04-22 18-54-05](https://github.com/Ginu5952/DieceGame/assets/153096246/6dfe02db-205b-4c6d-8150-5042bfa0f28a)
