@@ -7,8 +7,7 @@ def show_image(imge,duration):
 
     try:
         if imge == 'welcome':
-        
-            
+             
             screen_width = 800
             screen_height = 600
             screen = pygame.display.set_mode((screen_width, screen_height))
@@ -42,7 +41,6 @@ def shower_congratulation():
         pygame.display.set_caption("Congratulations")
         raining_letters = []
 
-    
         for _ in range(30):
             raining_letters.append(RainingLetter(SCREEN_WIDTH, SCREEN_HEIGHT))
 
@@ -56,13 +54,10 @@ def shower_congratulation():
                 if event.type == pygame.QUIT:
                     running = False
 
-        
             screen.fill((0, 0, 0))
 
-        
             draw_static_message(screen, SCREEN_WIDTH, SCREEN_HEIGHT)
 
-        
             for letter in raining_letters:
                 letter.move(SCREEN_WIDTH, SCREEN_HEIGHT)
                 letter.draw(screen)

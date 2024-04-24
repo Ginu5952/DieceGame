@@ -73,7 +73,6 @@ def position_change(die:tuple,pos:int) -> tuple:   # if user want to roll first 
         my_tuple = die
         replacement_integer = random.randint(1, 8)  
 
-    
         my_list = list(my_tuple)
 
         if pos == 1:
@@ -93,8 +92,7 @@ def position_change(die:tuple,pos:int) -> tuple:   # if user want to roll first 
     except Exception as e:
         print("An unexpected error occurred:", e)
         return die  # Return the original tuple if an error occurs     
-
-
+    
 
 def roll_dice(input_dice:tuple,posin = 0):
 
@@ -103,8 +101,7 @@ def roll_dice(input_dice:tuple,posin = 0):
             
         times = 12
         delay = 0.5
-    
-        
+         
         if posin == 0:    # condition which user did not mentioned to roll specific position
             
             for _ in range(times):
