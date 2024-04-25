@@ -23,7 +23,7 @@ class DiceGame:
     def __init__(self, dice_board: DummyDice, player_name: str) -> None:
         self._dice_board: DummyDice = dice_board
         self._player_name: str = player_name
-        self.roll_trials: int = 2
+        self.roll_trials: int = 5
         self.initial_roll: int = self.roll_trials
 
     def is_winner(self) -> bool:
